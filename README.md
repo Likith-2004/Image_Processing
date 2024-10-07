@@ -1,8 +1,9 @@
-##Image Processing Using OpenCV
-#Description:
+## Image Processing Using OpenCV
+
+# Description:
 OpenCV (Open Source Computer Vision Library) is a powerful open-source library designed for real-time computer vision and image processing tasks. It provides a comprehensive suite of tools to manipulate and analyze visual data, making it an essential resource for developers and researchers in fields such as artificial intelligence, machine learning, and robotics.
 
-#Keywords:
+# Keywords:
 OpenCV: An open-source library for computer vision and image processing.
 Image Processing: Techniques used to enhance, analyze, and manipulate images.
 Computer Vision: A field of artificial intelligence that enables computers to interpret and process visual information.
